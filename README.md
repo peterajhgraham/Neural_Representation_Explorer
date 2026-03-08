@@ -4,11 +4,6 @@
 > Simulate a spiking population, smooth it with a Gaussian kernel, and watch four
 > distinct behavioral states emerge as crisp, separated manifolds in 2-D space.
 
-[![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
-[![Pipeline](https://img.shields.io/badge/CI-auto--runs%20on%20push-2ea44f?style=flat-square&logo=github-actions&logoColor=white)](.github/workflows/run_pipeline.yml)
-[![NumPy](https://img.shields.io/badge/NumPy-vectorized-013243?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org)
-[![UMAP](https://img.shields.io/badge/Manifold-PCA%20%2B%20UMAP-FF6B6B?style=flat-square)](https://umap-learn.readthedocs.io)
-
 ---
 
 ## The Pipeline
